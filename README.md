@@ -1,6 +1,6 @@
-## Hey, there! Willamy
+## Hey, there! I'm Willamy
 
-**Mobile Developer and Cybersecurity Enthusiast**. 
+I'm a **Mobile Developer and Cybersecurity Enthusiast**, working as IT Analyst and doing my side-projects.
 
 <p>
   <!-- <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"> -->
